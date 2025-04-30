@@ -1,0 +1,6 @@
+Account Statement for Kasa
+Date,Type,Amount,Item,Balance After
+2025-04-30T17:09:15.232968,purchase,2.99,Milk,4497.01
+2025-04-30T17:09:15.233085,purchase,3.49,Bread,4493.52
+2025-04-30T17:09:15.233130,withdrawal,200.00,,4293.52
+2025-04-30T17:09:15.233482,interest,6.32,,3799.84
